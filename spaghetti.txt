@@ -1,2 +1,4 @@
 console.log("tomatensaus"). 
 console.log("gehakt");
+console.log("tomaat");
+console.log("paprika");
